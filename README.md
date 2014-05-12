@@ -1,4 +1,5 @@
 web01-test
 ==========
 
-web01-test inicial
+Carga inicial de la web para pruebas en git y control de versionado.
+Pagina web demo.
