@@ -140,7 +140,8 @@ body{
 }
 /********* Content ***********/
 .content_bottom{
-	padding:25px;
+/*  padding:25px;*/
+	padding:50px;
 	background:#FFF;
 }
 .content_bottom h2{
@@ -159,7 +160,8 @@ body{
 }
 .content_bottom p{
 	color:#969494;
-	font-size:0.85em;
+	font-size: 1.0em;
+    /*font-size:0.85em;*/
 	padding:5px 0;
 	line-height:1.8em;
 }
