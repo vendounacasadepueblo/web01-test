@@ -71,7 +71,7 @@
 /* The Nivo Slider styles */
 .nivoSlider {
 	position:static;
-    /*width:100%;*//* Segun la siguiente web: http://web.tursos.com/como-implementar-nivo-slider-en-tu-pagina-web/   Donde indica el cambio a utilizar en width. Para resoluciones muy altas, FullHD de monitor*/    width: 1280px;    margin: auto;
+    /*width:100%;*//* Segun la siguiente web: http://web.tursos.com/como-implementar-nivo-slider-en-tu-pagina-web/   Donde indica el cambio a utilizar en width. Para resoluciones muy altas, FullHD de monitor*/    width:1280px;    margin:auto;
     height:auto;
 	overflow:hidden;
 }
@@ -150,8 +150,8 @@
 }
 @media all and (max-width:320px) {
 	.theme-default .nivo-controlNav a{
-		width:10px;
-	    height:10px;
+		width:20px;
+	    height:20px;
 	    margin:0 2px;
 	}
 	.nivo-controlNav {
